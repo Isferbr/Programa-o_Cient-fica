@@ -1,2 +1,2 @@
-# Programa-o_Cient-fica
+# Programacao Cientifica
 Repositório da disciplina.
